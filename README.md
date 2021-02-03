@@ -7,4 +7,4 @@ The references to the code have been taking from multiple sources. To name a few
 - [http://winprog.org/](http://winprog.org/)
 
 
-### Part 1 - [Enumerate all processes on a Windows machine]()
+### Part 1 - [Enumerate all processes on a Windows machine](https://badbit.vc/index.php/2021/02/03/windowsapi-voodoo/)
